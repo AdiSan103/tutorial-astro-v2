@@ -1,3 +1,8 @@
+# website example : https://tutorial-astro-disan103.netlify.app/
+# i learn astro--------------------------------------
+
+# documentation default above
+
 # Astro Starter Kit: Minimal
 
 ```
